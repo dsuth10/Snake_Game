@@ -1,1 +1,2 @@
 # Snake_Game
+This code sets up a window using Pygame and creates a simple Snake game. The snake is controlled with the arrow keys, grows when it eats food, and the game ends if it collides with itself or the window edges. The score is displayed in the top left corner, and a 'Game Over' message appears when the game ends. You can run this code in a Python environment where Pygame is installed.

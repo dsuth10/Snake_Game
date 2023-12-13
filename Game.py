@@ -2,11 +2,9 @@ import pygame
 import random
 
 pygame.init()
-
 # Game window dimensions
-width, height = 600, 400
+width, height = 1200, 800  # Updated dimensions
 win = pygame.display.set_mode((width, height))
-
 # Colors
 white = (255, 255, 255)
 red = (255, 0, 0)
